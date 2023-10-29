@@ -7,5 +7,3 @@ I'm a passionate computer science student with a strong desire to explore the ev
 - Databases: SQL
 - Version Control: GitHub
 
-🌱 Current Focus:
-I'm currently diving into the exciting world of data s and machine learning. My goal is to insights and create intelligent solutions. I'm also an active contributor to open source projects, always eager to learn and collaborate with the global tech community.
