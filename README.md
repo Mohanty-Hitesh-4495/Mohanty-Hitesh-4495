@@ -5,5 +5,6 @@ I'm a passionate computer science student with a strong desire to explore the ev
 🚀 Tech Stack:
 - Programming Languages: Python, Java, C
 - Databases: SQL
+- Front-End Development : HTML, CSS, JavaScript
 - Version Control: GitHub
 
