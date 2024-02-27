@@ -12,7 +12,7 @@ and making a positive impact through my work.
 ## 🌐 Links:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hitesh-mohanty8/)
 [![Leetcode](https://img.shields.io/badge/Leetcode-000000?logo=Leetcode&logoColor=yellow)](https://leetcode.com/Mohanty_Hitesh_4495/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-000000?logo=HackerRank&logoColor=green)]((https://www.hackerrank.com/profile/mohantyhitesh441))
+[![HackerRank](https://img.shields.io/badge/HackerRank-000000?logo=HackerRank&logoColor=green)](https://www.hackerrank.com/profile/mohantyhitesh441)
 [![GeekforGeeks](https://img.shields.io/badge/GeekforGeeks-%220077B5?logo=GFG&logoColor=green)]((https://auth.geeksforgeeks.org/user/mohantyhikjst))
 
 # 💻 Tech Stack:
