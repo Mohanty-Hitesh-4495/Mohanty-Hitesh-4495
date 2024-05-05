@@ -1,5 +1,5 @@
 # 💫 About Me:
-- Hi 👋, I'm Hitesh<br>- I’m a Full Stack Developer and Tech Enthusiast <br>- I’m currently improving problem solving skills by practice DSA problems using java.<br>- Ask me about Java, Python and Data Structure and Algorithm <br>- How to reach me mohantyhitesh4495@gmail.com<br>-
+- Hi 👋, I'm Hitesh<br>- I’m a Computer Science Student and Tech Enthusiast <br>- I’m currently improving problem solving skills by practice DSA problems using java.<br>- Ask me about Java, Python and Data Structure and Algorithm <br>- How to reach me mohantyhitesh4495@gmail.com<br>-
 I am passionate about staying up-to-date with the 
 latest trends and technologies in the field of 
 software development,
