@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Hitesh! 👋</h1>
 <h3 align="center"> Problem Solver | Expertise in Data Science and AI/ML |  Web Designer</h3>
 
-<img align="right" alt="Coding" width="200" src="https://media.tenor.com/iRB7vrvhPR4AAAAi/data-code.gif">
+<img align="right" alt="Coding" width="175" src="https://media.tenor.com/iRB7vrvhPR4AAAAi/data-code.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohanty-Hitesh-4495&label=Profile%20views&color=0e75b6&style=flat" alt="Mohanty-Hitesh-4495" /> </p>
